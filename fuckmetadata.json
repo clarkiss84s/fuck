@@ -1,0 +1,10 @@
+{
+  "name": "Ballistik Weapon",
+  "TokenStandard": "FungibleAsset",
+  "symbol": "BLW",
+  "description": "Ballistik Coin is the first decentralized, capital efficient and over-collateralized protocol",
+  "image": "https://static.vecteezy.com/system/resources/previews/003/450/375/original/chainlink-link-coin-icon-isolated-on-white-background-vector.jpg",
+  "external_url": "https://solana.com/",
+  "sellerFeeBasisPoints": 0,
+  "creators":[]
+}
