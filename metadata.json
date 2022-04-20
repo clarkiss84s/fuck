@@ -1,0 +1,23 @@
+{
+    "name": "TestName",
+    "symbol": "NFT",
+    "description": "Some test info you will read.",
+    "seller_fee_basis_points": 0,
+    "image": "https://i.ibb.co/HXm2t8P/image-2022-04-17-21-43-28.png",
+    "external_url": "https://somesite.com",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://i.ibb.co/HXm2t8P/image-2022-04-17-21-43-28.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "35yLHLwqyHhb4qdWuSNwu439fA2MN4QMeMjJG2gqz6vn",
+                "share": 100
+            }
+        ]
+    }
+}
